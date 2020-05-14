@@ -5,7 +5,7 @@
 <img alt="Website Image" src="https://s6.gifyu.com/images/travel-gif.md.gif"/>
 
 
-![Alt Text](https://s6.gifyu.com/images/travel-gif.md.gif)
+![Alt Text](https://s6.gifyu.com/images/Final3cf3767a46c804a9.gif)
 
  **Main tecnologies used to build thiswebsite: Adobe XD / JAMStack (JavaScript, reusable APIs, Markup) / CSS / React / Gatsby / Contentful. **
  
